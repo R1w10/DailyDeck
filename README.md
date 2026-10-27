@@ -2,6 +2,8 @@
 
 新手小白以 Python 製作的 Windows 桌面工具，協助依序執行各款遊戲已設定好的自動日常腳本。
 
+目前支援的遊戲：**鳴潮、星塔旅人、明日方舟：終末地**。
+
 ## 下載
 
 前往 [最新版本下載頁](https://github.com/R1w10/DailyDeck/releases/latest)，下載：
